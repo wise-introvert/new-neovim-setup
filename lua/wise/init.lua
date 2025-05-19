@@ -1,0 +1,7 @@
+require("wise.remap")
+require("wise.colors")
+require("wise.telescope")
+require("wise.packer")
+require("wise.treesitter")
+require("wise.harpoon")
+require("wise.set")
